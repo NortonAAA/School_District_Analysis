@@ -13,6 +13,16 @@ With the updated results we can see a slight negative change in the Averages and
 ![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/district_summary_comparison.png) 
 
 ### School Summary Results
-### Updated School Performance Compared to Peers
+Thomas High School was lowered in several categories but remained in an approximate 90% Overall Passing level. This moved them from the top spot compared to all the schools to the second position. This indicates an overall opportunity to improve the 9th graders but not so significant as if we had counted the 9th graders as 0 and really not much of a need for the dishonesty.
+![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/school_summary_comparison.png)
 
+### Math Scores and Reading Scores by Grade
+Below we can see the comparisons for both the Math and Reading scores before and after the removal of the 9th grade as confirmation.
+![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/math_by_grade_comparison.png)
+![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/reading_by_grade_comparison.png)
 
+### Impact to Groups by School Spending, Size, and Type
+For the rest of the analysis, we show the comparison of analysis between Scores by school spending, by school size, and by school type. All these categories were unaffected by the removal of Thomas High School's 9th grades as their 461 students did not contribute as much to the larger aggregate of the district
+![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/school_spending_comparison.png)
+![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/school_size_comparison.png)
+![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/school_type_comparison.png)
