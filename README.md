@@ -28,3 +28,6 @@ For the rest of the analysis, we show the comparison of analysis between Scores 
 ![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/school_spending_comparison.png)
 ![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/school_size_comparison.png)
 ![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/school_type_comparison.png)
+
+## Summary
+To summarize the impact of the updated analysis, Thomas High School ultimately wasn't drastically impacted from a top school but went from the best school in the district in % Overall Passing to 2nd. Removal of those scores additionally did lower the % Overall Passing, Average Math Score, Average Reading Scores. It is important note that continued look out for academic dishonesty is necessary as the difference between schools is really close.
