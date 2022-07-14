@@ -18,11 +18,13 @@ Thomas High School was lowered in several categories but remained in an approxim
 
 ### Math Scores and Reading Scores by Grade
 Below we can see the comparisons for both the Math and Reading scores before and after the removal of the 9th grade as confirmation.
+
 ![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/math_by_grade_comparison.png)
 ![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/reading_by_grade_comparison.png)
 
 ### Impact to Groups by School Spending, Size, and Type
-For the rest of the analysis, we show the comparison of analysis between Scores by school spending, by school size, and by school type. All these categories were unaffected by the removal of Thomas High School's 9th grades as their 461 students did not contribute as much to the larger aggregate of the district
+For the rest of the analysis, we show the comparison of analysis between Scores by school spending, by school size, and by school type. All these categories were unaffected by the removal of Thomas High School's 9th grades as their 461 students did not contribute as much to the larger aggregate of the district.
+
 ![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/school_spending_comparison.png)
 ![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/school_size_comparison.png)
 ![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/school_type_comparison.png)
