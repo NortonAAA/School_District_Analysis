@@ -16,6 +16,7 @@ With the updated results we can see a slight negative change in the Averages and
 Thomas High School was lowered in several categories but remained in an approximate 90% Overall Passing level. This moved them from the top spot compared to all the schools to the second position. This indicates an overall opportunity to improve the 9th graders but not so significant as if we had counted the 9th graders as 0 and really not much of a need for the dishonesty.
 ![](https://github.com/NortonAAA/School_District_Analysis/blob/main/Graphics/school_summary_comparison.png)
 
+
 ### Math Scores and Reading Scores by Grade
 Below we can see the comparisons for both the Math and Reading scores before and after the removal of the 9th grade as confirmation.
 
