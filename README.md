@@ -10,7 +10,9 @@ We will break the results of this analysis into several sections that focus on t
 3) Updated School Performance Compared to Peers
 ### District Results
 With the updated results we can see a slight negative change in the Averages and % Passing for each category. The % of overall passing having the most movement due to the combination of % Passing Math and % Passing Reading both having moved down.
-![](https://github.com/NortonAAA/School_District_Analysis/blob/main/district_summary_comparison.png) 
+
+![](https://github.com/NortonAAA/School_District_Analysis/Graphics/blob/main/district_summary_comparison.png) 
+
 ### School Summary Results
 ### Updated School Performance Compared to Peers
 
